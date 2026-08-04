@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="pertemuan1/pertemuan1.csproj">
+    <BuildDependency Project="pertemuan3/pertemuan3.csproj" />
+  </Project>
+  <Project Path="pertemuan3/pertemuan3.csproj" Id="ddbfb601-a87d-4f03-b4be-c310bfd65b22" />
+</Solution>
